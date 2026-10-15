@@ -1,4 +1,4 @@
-Random Password Generator:
+Random Password Generator (TASK 2):
 
 Project Description:
     =>This project is a Python-based Random Password Generator developed as part of the OASIS INFOBYTE Python Programming Internship.
@@ -34,18 +34,18 @@ Project Structure:
 
 How to Run the Project:
 
-1. Check Python is installed:
+1.Check Python is installed:
 
     =>Make sure Python is installed. Check the version with:
 
     =>python --version
 
     
-2. Open the project folder:
+2.Open the project folder:
 
     =>Open the project folder in VS Code and open its terminal.
 
-3. Run the program:
+3.Run the program:
 
 Execute:
 
